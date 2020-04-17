@@ -1,0 +1,290 @@
+
+
+C:\Users\Admin\Documents\java>javac BusReservation.java
+
+C:\Users\Admin\Documents\java>java BusReservation
+Enter Username: 12345
+Enter Password: 12345
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 1
+***************************************
+      DESTINATION   |  FARE  |  SEAT
+***************************************
+*  1.)Pune           | 800 Rs |   20    *
+*  2.)Mumbai         | 600 Rs |   20    *
+*  3.)Aurangabad     | 400 Rs |   20    *
+*  4.)Nashik         | 300 Rs |   20    *
+*  5.)Nagpur         | 900 Rs |   20    *
+***************************************
+***************************************
+
+PWD, STUDENT, & SENIOR CITIZEN with 20% DISCOUNT!!!
+
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 2
+***************************************
+    DESTINATION   |  FARE  |  SEAT
+***************************************
+*  1.)Pune         | 800 Rs |   20    *
+*  2.)Mumbai       | 600 Rs |   20    *
+*  3.)Aurangabad   | 400 Rs |   20    *
+*  4.)Nashik       | 300 Rs |   20    *
+*  5.)Nagpur       | 900 Rs |   20    *
+***************************************
+***************************************
+
+PWD, STUDENT, & SENIOR CITIZEN with 20% DISCOUNT!!!
+
+
+ENTER PASSENGER'S NAME: jack
+ENTER DESTINATION [number]: 1
+HOW MANY PASSENGERS ARE YOU?: 4
+HOW MANY PASSENGERS HAVE DISCOUNT?: 1
+
+***************************************
+        PASSENGER'S DETAILS
+***************************************
+PASSENGER'S NAME: jack
+PASSENGER'S DESTINATION : Pune
+FARE PRICE: Rs 800.0
+NO. OF PASSENGERS: 4
+NO. OF PASSENGERS WITH DISCOUNT: 1
+Seat NO. :
+1
+2
+3
+4
+***************************************
+***************************************
+
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 3
+ENTER PASSENGER'S NAME: jack
+***************************************
+        PASSENGER'S DETAILS
+***************************************
+PASSENGER'S NAME: jack
+PASSENGER'S DESTINATION : Pune
+FARE PRICE: Rs800.0
+NO. OF PASSENGERS: 4
+NO. OF PASSENGERS WITH DISCOUNT: 1
+***************************************
+***************************************
+
+PASSENGER'S TOTAL FARE: Rs 3040.0
+ENTER AMOUNT TO PAY: 3050
+CHANGE: Rs 10.0
+
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 4
+SEARCH PASSENGER'S NAME: jack
+***************************************
+          PASSENGER'S DETAILS
+***************************************
+PASSENGER'S NAME: jack
+PASSENGER'S DESTINATION : Pune
+FARE PRICE: Rs800.0
+NO. OF PASSENGERS: 4
+NO. OF PASSENGERS WITH DISCOUNT: 1
+TOTAL FARE PRICE: Rs 3040.0
+PAY: Rs 3050.0
+CHANGE: Rs 10.0
+STATUS: PAID
+***************************************
+***************************************
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 1
+***************************************
+      DESTINATION   |  FARE  |  SEAT
+***************************************
+*  1.)Pune           | 800 Rs |   16    *
+*  2.)Mumbai         | 600 Rs |   20    *
+*  3.)Aurangabad     | 400 Rs |   20    *
+*  4.)Nashik         | 300 Rs |   20    *
+*  5.)Nagpur         | 900 Rs |   20    *
+***************************************
+***************************************
+
+PWD, STUDENT, & SENIOR CITIZEN with 20% DISCOUNT!!!
+
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 2
+***************************************
+    DESTINATION   |  FARE  |  SEAT
+***************************************
+*  1.)Pune         | 800 Rs |   16    *
+*  2.)Mumbai       | 600 Rs |   20    *
+*  3.)Aurangabad   | 400 Rs |   20    *
+*  4.)Nashik       | 300 Rs |   20    *
+*  5.)Nagpur       | 900 Rs |   20    *
+***************************************
+***************************************
+
+PWD, STUDENT, & SENIOR CITIZEN with 20% DISCOUNT!!!
+
+
+ENTER PASSENGER'S NAME: mac
+ENTER DESTINATION [number]: 1
+HOW MANY PASSENGERS ARE YOU?: 17
+Sorry, We don't have seat available for 17 person
+We only have 16 seat available
+HOW MANY PASSENGERS ARE YOU?: 5
+HOW MANY PASSENGERS HAVE DISCOUNT?: 2
+
+***************************************
+        PASSENGER'S DETAILS
+***************************************
+PASSENGER'S NAME: mac
+PASSENGER'S DESTINATION : Pune
+FARE PRICE: Rs 800.0
+NO. OF PASSENGERS: 5
+NO. OF PASSENGERS WITH DISCOUNT: 2
+Seat NO. :
+5
+6
+7
+8
+9
+***************************************
+***************************************
+
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 3
+ENTER PASSENGER'S NAME: mac
+***************************************
+        PASSENGER'S DETAILS
+***************************************
+PASSENGER'S NAME: mac
+PASSENGER'S DESTINATION : Pune
+FARE PRICE: Rs800.0
+NO. OF PASSENGERS: 5
+NO. OF PASSENGERS WITH DISCOUNT: 2
+***************************************
+***************************************
+
+PASSENGER'S TOTAL FARE: Rs 3680.0
+ENTER AMOUNT TO PAY: 3000
+Invalid Input!
+
+PASSENGER'S TOTAL FARE: Rs 3680.0
+ENTER AMOUNT TO PAY: 4000
+CHANGE: Rs 320.0
+
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 4
+SEARCH PASSENGER'S NAME: mac
+***************************************
+          PASSENGER'S DETAILS
+***************************************
+PASSENGER'S NAME: mac
+PASSENGER'S DESTINATION : Pune
+FARE PRICE: Rs800.0
+NO. OF PASSENGERS: 5
+NO. OF PASSENGERS WITH DISCOUNT: 2
+TOTAL FARE PRICE: Rs 3680.0
+PAY: Rs 4000.0
+CHANGE: Rs 320.0
+STATUS: PAID
+***************************************
+***************************************
+Do you want another transaction? [Y/N]: y
+********************************************
+   BUS RESERVATION AND TICKETING SYSTEM
+********************************************
+*  [1] Destination                         *
+*  [2] Passengers                          *
+*  [3] Billing                             *
+*  [4] View                                *
+*  [5] Exit                                *
+********************************************
+********************************************
+
+ENTER CHOICE: 5
+Thank You!
